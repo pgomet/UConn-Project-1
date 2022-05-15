@@ -17,7 +17,8 @@
 ------
 
 ## ScreenShot of Webpage
-
+The following shows what the website should look like:
+![The website shows an "Ex~citable" title upon entering the webpage where you can generate random tasks to do for the day by clickin on "generate task".](https://pgomet.github.io/Work-Day-Scheduler/)
 
 ## Overview of code section
 
