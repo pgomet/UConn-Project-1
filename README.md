@@ -14,7 +14,7 @@
 
 ## Link to Website
 
-------
+https://pgomet.github.io/UConn-Project-1/
 
 ## ScreenShot of Webpage
 The following shows what the website should look like:
